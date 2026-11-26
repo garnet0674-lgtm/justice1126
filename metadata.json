@@ -1,0 +1,6 @@
+{
+  "name": "청사 시설 점검 일정 관리표",
+  "description": "지방자치단체 청사 및 복지관의 소방·전기·승강기·가스·정화조 등 시설 법정 점검 주기와 점검 이력을 브라우저에서 안전하게 관리하는 실무 일정 관리 도구",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
